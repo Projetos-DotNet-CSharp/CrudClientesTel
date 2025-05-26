@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CrudCT.Application\CrudCT.Application.csproj" />
+    <ProjectReference Include="..\CrudCT.Domain\CrudCT.Domain.csproj" />
+    <ProjectReference Include="..\CrudCT.Infra.Data\CrudCT.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

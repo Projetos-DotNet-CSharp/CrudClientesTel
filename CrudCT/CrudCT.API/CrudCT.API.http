@@ -1,0 +1,6 @@
+@CrudCT.API_HostAddress = http://localhost:5139
+
+GET {{CrudCT.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
