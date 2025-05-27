@@ -1,4 +1,6 @@
-﻿using CrudCT.Application.Interfaces;
+﻿using CrudCT.Application.DTOs;
+using CrudCT.Application.Interfaces;
+using CrudCT.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CrudCT.WebUI.Controllers
@@ -17,6 +19,18 @@ namespace CrudCT.WebUI.Controllers
         {
             var tiposTelefones = await _tipoTelefoneService.ObterTiposTelefonesAsync();
             return View(tiposTelefones);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(TipoTelefoneDTO tipoTelefoneDTO)
+        {
+            if (ModelState.IsValid)
+            {
+                await _tipoTelefoneService.AdicionarTipoTelefoneAsync(tipoTelefoneDTO);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(tipoTelefoneDTO);
         }
     }
 }

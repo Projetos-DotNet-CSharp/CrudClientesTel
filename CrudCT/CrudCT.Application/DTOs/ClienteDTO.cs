@@ -52,13 +52,13 @@ namespace CrudCT.Application.DTOs
         public string Cidade { get; private set; }
 
         [Required(ErrorMessage = "Campo requerido")]
-        [StringLength(8, MinimumLength = 8)]
-        public string CEP { get; private set; }
-
-        [Required(ErrorMessage = "Campo requerido")]
         [StringLength(2, MinimumLength = 2)]
         public string UF { get; private set; }
 
-        public ICollection<Telefone> Telefones { get; set; }
+        [Required(ErrorMessage = "Campo requerido")]
+        [StringLength(8, MinimumLength = 8)]
+        public string CEP { get; private set; }
+
+        public ICollection<TelefoneDTO> Telefones { get; set; }
     }
 }

@@ -1,5 +1,8 @@
+using CrudCT.Infra.Ioc;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddInfrastructureAPI(builder.Configuration);
 // Add services to the container.
 
 builder.Services.AddControllers();

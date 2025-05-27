@@ -3,48 +3,88 @@
   "WorkspaceRootPath": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\tipostelefones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\tipostelefones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\telefones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\telefones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\tipostelefones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\tipostelefones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.infra.data\\entitiesconfiguration\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|solutionrelative:crudct.infra.data\\entitiesconfiguration\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\controllers\\telefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\controllers\\telefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\controllers\\tipostelefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\controllers\\tipostelefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6A39D58-CF05-4458-8700-7DBA7B439BB7}|CrudCT.Domain\\CrudCT.Domain.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A39D58-CF05-4458-8700-7DBA7B439BB7}|CrudCT.Domain\\CrudCT.Domain.csproj|solutionrelative:crudct.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA35C329-7B14-4506-A2F9-CD83633353C1}|CrudCT.Application\\CrudCT.Application.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.application\\dtos\\telefonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA35C329-7B14-4506-A2F9-CD83633353C1}|CrudCT.Application\\CrudCT.Application.csproj|solutionrelative:crudct.application\\dtos\\telefonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|solutionrelative:crudct.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.infra.data\\entitiesconfiguration\\tipotelefoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|solutionrelative:crudct.infra.data\\entitiesconfiguration\\tipotelefoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.infra.data\\entitiesconfiguration\\telefoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E77AD4-417B-4070-BD86-1B6E5C7DDC49}|CrudCT.Infra.Data\\CrudCT.Infra.Data.csproj|solutionrelative:crudct.infra.data\\entitiesconfiguration\\telefoneconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA35C329-7B14-4506-A2F9-CD83633353C1}|CrudCT.Application\\CrudCT.Application.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA35C329-7B14-4506-A2F9-CD83633353C1}|CrudCT.Application\\CrudCT.Application.csproj|solutionrelative:crudct.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28E7E26-5FF3-4B1F-87AA-EED61041BD71}|CrudCT.API\\CrudCT.API.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.api\\controllers\\tipostelefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28E7E26-5FF3-4B1F-87AA-EED61041BD71}|CrudCT.API\\CrudCT.API.csproj|solutionrelative:crudct.api\\controllers\\tipostelefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\controllers\\tipostelefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\controllers\\tipostelefonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.webui\\views\\tipostelefones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D672EE6A-903E-478F-A53B-E454064BEA40}|CrudCT.WebUI\\CrudCT.WebUI.csproj|solutionrelative:crudct.webui\\views\\tipostelefones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28E7E26-5FF3-4B1F-87AA-EED61041BD71}|CrudCT.API\\CrudCT.API.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28E7E26-5FF3-4B1F-87AA-EED61041BD71}|CrudCT.API\\CrudCT.API.csproj|solutionrelative:crudct.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28E7E26-5FF3-4B1F-87AA-EED61041BD71}|CrudCT.API\\CrudCT.API.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28E7E26-5FF3-4B1F-87AA-EED61041BD71}|CrudCT.API\\CrudCT.API.csproj|solutionrelative:crudct.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C97237-9194-4D19-90FC-9DF809E1F224}|CrudCT.Infra.Ioc\\CrudCT.Infra.Ioc.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C97237-9194-4D19-90FC-9DF809E1F224}|CrudCT.Infra.Ioc\\CrudCT.Infra.Ioc.csproj|solutionrelative:crudct.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C97237-9194-4D19-90FC-9DF809E1F224}|CrudCT.Infra.Ioc\\CrudCT.Infra.Ioc.csproj|c:\\projetos\\github\\crudclientestel\\crudct\\crudct.infra.ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C97237-9194-4D19-90FC-9DF809E1F224}|CrudCT.Infra.Ioc\\CrudCT.Infra.Ioc.csproj|solutionrelative:crudct.infra.ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,8 +93,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 191,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 248,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,106 +102,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TiposTelefonesController.cs",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
-              "RelativeToolTip": "CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:06:16.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T23:09:24.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
-              "RelativeToolTip": "CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T23:00:19.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TelefonesController.cs",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\TelefonesController.cs",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Controllers\\TelefonesController.cs",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\TelefonesController.cs",
-              "RelativeToolTip": "CrudCT.WebUI\\Controllers\\TelefonesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:07:02.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T00:49:09.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Program.cs",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Program.cs",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Program.cs",
-              "RelativeToolTip": "CrudCT.WebUI\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T19:57:13.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Telefones\\Index.cshtml",
               "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\Telefones\\Index.cshtml",
               "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Telefones\\Index.cshtml",
               "RelativeToolTip": "CrudCT.WebUI\\Views\\Telefones\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T23:09:32.678Z",
+              "WhenOpened": "2025-05-27T19:23:31.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CrudCT.WebUI\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:18:01.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CrudCT.WebUI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "CrudCT.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "CrudCT.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:21:17.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteConfiguration.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "RelativeDocumentMoniker": "CrudCT.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "RelativeToolTip": "CrudCT.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:24.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Program.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Program.cs",
+              "RelativeToolTip": "CrudCT.WebUI\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:38:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\TiposTelefones\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\TiposTelefones\\Create.cshtml",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\TiposTelefones\\Create.cshtml",
+              "RelativeToolTip": "CrudCT.WebUI\\Views\\TiposTelefones\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA8AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-27T01:00:21.351Z",
+              "WhenOpened": "2025-05-27T19:02:15.02Z",
               "EditorCaption": ""
             },
             {
@@ -172,36 +183,177 @@
               "RelativeDocumentMoniker": "CrudCT.WebUI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CrudCT.WebUI\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:58:11.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:23:50.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "CrudCT.WebUI\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:22:39.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "CrudCT.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "CrudCT.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:52.369Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "CrudCT.WebUI\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "CrudCT.WebUI\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAwAAAA",
+              "Title": "TipoTelefoneConfiguration.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\EntitiesConfiguration\\TipoTelefoneConfiguration.cs",
+              "RelativeDocumentMoniker": "CrudCT.Infra.Data\\EntitiesConfiguration\\TipoTelefoneConfiguration.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\EntitiesConfiguration\\TipoTelefoneConfiguration.cs",
+              "RelativeToolTip": "CrudCT.Infra.Data\\EntitiesConfiguration\\TipoTelefoneConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T20:08:00.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:20:44.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TelefoneDTO.cs",
-              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Application\\DTOs\\TelefoneDTO.cs",
-              "RelativeDocumentMoniker": "CrudCT.Application\\DTOs\\TelefoneDTO.cs",
-              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Application\\DTOs\\TelefoneDTO.cs",
-              "RelativeToolTip": "CrudCT.Application\\DTOs\\TelefoneDTO.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBUAAAAhAAAA",
+              "Title": "TelefoneConfiguration.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\EntitiesConfiguration\\TelefoneConfiguration.cs",
+              "RelativeDocumentMoniker": "CrudCT.Infra.Data\\EntitiesConfiguration\\TelefoneConfiguration.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Data\\EntitiesConfiguration\\TelefoneConfiguration.cs",
+              "RelativeToolTip": "CrudCT.Infra.Data\\EntitiesConfiguration\\TelefoneConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T20:42:08.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:20:37.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudCT.WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:18:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TiposTelefonesController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.API\\Controllers\\TiposTelefonesController.cs",
+              "RelativeDocumentMoniker": "CrudCT.API\\Controllers\\TiposTelefonesController.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.API\\Controllers\\TiposTelefonesController.cs",
+              "RelativeToolTip": "CrudCT.API\\Controllers\\TiposTelefonesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:47:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CrudCT.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CrudCT.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:01:52.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Application\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "CrudCT.Application\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Application\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "CrudCT.Application\\DTOs\\ClienteDTO.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA4wDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:13:26.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.API\\Program.cs",
+              "RelativeDocumentMoniker": "CrudCT.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.API\\Program.cs",
+              "RelativeToolTip": "CrudCT.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:50:32.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TiposTelefonesController.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
+              "RelativeToolTip": "CrudCT.WebUI\\Controllers\\TiposTelefonesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:57:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudCT.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:11:24.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
+              "RelativeToolTip": "CrudCT.WebUI\\Views\\TiposTelefones\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T18:57:47.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Ioc\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CrudCT.Infra.Ioc\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Ioc\\DependencyInjection.cs",
+              "RelativeToolTip": "CrudCT.Infra.Ioc\\DependencyInjection.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:41:39.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DependencyInjectionAPI.cs",
+              "DocumentMoniker": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Ioc\\DependencyInjectionAPI.cs",
+              "RelativeDocumentMoniker": "CrudCT.Infra.Ioc\\DependencyInjectionAPI.cs",
+              "ToolTip": "C:\\Projetos\\GitHub\\CrudClientesTel\\CrudCT\\CrudCT.Infra.Ioc\\DependencyInjectionAPI.cs",
+              "RelativeToolTip": "CrudCT.Infra.Ioc\\DependencyInjectionAPI.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:41:30.974Z"
             }
           ]
         },

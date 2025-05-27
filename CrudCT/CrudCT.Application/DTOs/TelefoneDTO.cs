@@ -15,20 +15,20 @@ namespace CrudCT.Application.DTOs
 
         [Required(ErrorMessage = "Campo requerido")]
         [MaxLength(15)]
-        public string NumeroTelefone { get; private set; }
+        public string NumeroTelefone { get; set; }
 
         [Required(ErrorMessage = "Campo requerido")]
         [MinLength(1)]
-        public int TipoTelefoneId { get; private set; }
+        public int TipoTelefoneId { get; set; }
 
         [JsonIgnore]
-        public TipoTelefone TipoTelefone { get; private set; }
+        public TipoTelefone TipoTelefone { get; set; }
 
         [Required(ErrorMessage = "Campo requerido")]
         [MaxLength(50)]
-        public string Operadora { get; private set; }
+        public string Operadora { get; set; }
 
-        public bool Ativo { get; private set; }
+        public bool Ativo { get; set; }
 
         [Required(ErrorMessage = "Campo requerido")]
         public int ClienteId { get; set; }
