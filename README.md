@@ -1,7 +1,9 @@
 # CrudClientesTel
 Sistema de cadastro de clientes e telefones.
 
-## Requisitos
+## Tecnologias Utilizadas:
 
-- .NET 9
-- Entity Framework
+- .Net 8
+- Entity Framework Core
+- Fluent API
+- AutoMapper
